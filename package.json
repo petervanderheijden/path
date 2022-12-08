@@ -7,15 +7,23 @@
     "absolute",
     "path"
   ],
-  "author": {
-    "name": "Peter van der Heijden",
-    "email": "enzopeter02@gmail.com",
-    "url": "https://github.com/petervanderheijden"
-  },
+  "author": "Peter van der Heijden <enzopeter02@gmail.com> (https://github.com/petervanderheijden)",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.29.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0"
-  }
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petervanderheijden/path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petervanderheijden/path/issues"
+  },
+  "homepage": "https://github.com/petervanderheijden/path#readme"
 }
