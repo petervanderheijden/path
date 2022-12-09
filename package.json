@@ -1,20 +1,8 @@
 {
   "name": "@petervanderheijden/path",
-  "version": "1.0.1",
-  "description": "Create an absolute path to the root folder of a project.",
-  "main": "src/",
-  "keywords": [
-    "absolute",
-    "path"
-  ],
-  "author": "Peter van der Heijden <enzopeter02@gmail.com> (https://github.com/petervanderheijden)",
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^8.29.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0"
-  },
-
+  "version": "2.0.1",
+  "description": "Create an absolute path to the root directory.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/petervanderheijden/path.git"
   },
+  "keywords": [
+    "path",
+    "absolute",
+    "root"
+  ],
+  "author": "Peter van der Heijden",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/petervanderheijden/path/issues"
   },

@@ -7,8 +7,8 @@ Create an absolute path to the root folder of a project.
 * ``npm i @petervanderheijden/path``
 
 ## Implementation
-```js
-const path = require('@petervanderheijden/path');
+```
+const  path  =  require('@petervanderheijden/path');
 
 path('./src/config.json')
 ```
