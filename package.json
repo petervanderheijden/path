@@ -1,8 +1,8 @@
 {
   "name": "@petervanderheijden/path",
-  "version": "2.0.1",
-  "description": "Create an absolute path to the root directory.",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Create an absolute path to the root of your project.",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,14 +11,16 @@
     "url": "git+https://github.com/petervanderheijden/path.git"
   },
   "keywords": [
-    "path",
     "absolute",
-    "root"
+    "path"
   ],
   "author": "Peter van der Heijden",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/petervanderheijden/path/issues"
   },
-  "homepage": "https://github.com/petervanderheijden/path#readme"
+  "homepage": "https://github.com/petervanderheijden/path#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
 }
