@@ -1,6 +1,6 @@
 {
   "name": "@petervanderheijden/path",
-  "version": "1.0.0",
+  "version": "2.0.2",
   "description": "Create an absolute path to the root of your project.",
   "main": "index.ts",
   "scripts": {
